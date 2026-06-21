@@ -4,9 +4,9 @@
 const BLOG = {
   title: '慢叨 Slowmur',
   author: 'Xians',
-  email: 'hi@xians.su',
+  email: 'hi@xianssu.com',
   link: 'https://slowmur.com',
-  externalHPLink: 'https://xians.su',
+  externalHPLink: 'https://xianssu.com',
   description: '有些事用說的略顯嘮叨，放著沉澱。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'dark', // ['light', 'dark'],
@@ -22,7 +22,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://vercel-og-beta.vercel.app', // The link to generate OG image, don't end with a slash
   // detail: https://github.com/yokinist/og-image/blob/main/api/_lib/types.ts#L2-L12
-  socialLink: 'https://xians.su',
+  socialLink: 'https://xianssu.com',
   seo: {
     keywords: ['xians', 'Xians Su', 'slowmur', '慢叨'],
     googleSiteVerification: '_1A8LqqSKVpDRvIVBJIzizKL9y5T7poSIDkc8TbS5m0', // Remove the value or replace it with your own google site verification code
